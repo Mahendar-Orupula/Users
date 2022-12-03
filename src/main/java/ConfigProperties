@@ -1,0 +1,40 @@
+
+url = https://test.aulas.one/login
+username = developer@vectorseducation.com
+password =  classroom7@brigosha
+browser = chrome
+
+<!--  Student Details  -->
+
+Studentname = Mahendar Orupula
+Studentno = 9110470677
+Studentemail = mahendar.orupula@brigosha.com
+
+
+
+AdminNumber = 98765 43003
+
+TeacherAdmin= 99999 88887
+
+DataOperatorAdmin = 99999 88877
+
+OperationAdmin = 99999 88855
+
+DataOperator = 98765 43004
+
+
+
+
+Teacher = 99863 89471
+
+Student = 94827 87984
+
+OTP  = 592726
+
+// Test Prod  //
+
+url1 = https://testprod.aulas.in
+
+username1 = orupula.mahendar@brigosha.com
+
+password1 = 1234

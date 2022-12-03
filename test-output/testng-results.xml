@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-03T14:46:39 IST" name="Suite" finished-at="2022-12-03T14:49:47 IST" duration-ms="188558">
+    <groups>
+    </groups>
+    <test started-at="2022-12-03T14:46:39 IST" name="Test" finished-at="2022-12-03T14:49:47 IST" duration-ms="188558">
+      <class name="Test.UserManagementTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.UserManagementTest@4efac082]" started-at="2022-12-03T14:46:10 IST" name="setup" finished-at="2022-12-03T14:46:39 IST" duration-ms="29092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addStudent()[pri:1, instance:Test.UserManagementTest@4efac082]" started-at="2022-12-03T14:46:39 IST" name="addStudent" finished-at="2022-12-03T14:47:26 IST" duration-ms="46637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStudent -->
+        <test-method signature="addTeacher()[pri:2, instance:Test.UserManagementTest@4efac082]" started-at="2022-12-03T14:47:26 IST" name="addTeacher" finished-at="2022-12-03T14:48:15 IST" duration-ms="49275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTeacher -->
+        <test-method signature="addDataOperator()[pri:3, instance:Test.UserManagementTest@4efac082]" started-at="2022-12-03T14:48:15 IST" name="addDataOperator" finished-at="2022-12-03T14:49:03 IST" duration-ms="47817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDataOperator -->
+        <test-method signature="addOpeartion()[pri:4, instance:Test.UserManagementTest@4efac082]" started-at="2022-12-03T14:49:03 IST" name="addOpeartion" finished-at="2022-12-03T14:49:47 IST" duration-ms="44669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOpeartion -->
+      </class> <!-- Test.UserManagementTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
